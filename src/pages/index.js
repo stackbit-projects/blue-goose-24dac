@@ -20,7 +20,7 @@ const IndexPage = () => (
           <div className="col-lg-7 my-auto">
             <div className="header-content mx-auto">
               <h1 className="mb-5">
-               More Fresh Exports SA PTY LTD
+               Moasdasre Frasdsad
               </h1>
               <Scroll type="id" element="download">
                 <a href="#download" className="btn btn-outline btn-xl">
